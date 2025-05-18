@@ -1,0 +1,19 @@
+
+ City: kolkata
+ Time: 2025-05-17 00:08:10
+ Weather: overcast clouds
+ Temperature:30.07C (feels like 34.73C)
+
+
+ City: Mumbai
+ Time: 2025-05-17 00:08:30
+ Weather: overcast clouds
+ Temperature:29.18C (feels like 33.93C)
+
+
+ City: Jaipur
+ Coordinates: Latitiue 26.9167,Longitude 75.8167
+ Time: 2025-05-17 00:14:22
+ Weather: few clouds
+ Temperature:34.09C (feels like 32.63C)
+
